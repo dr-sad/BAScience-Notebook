@@ -1,0 +1,5 @@
+node_modules
+.next
+assets-source
+canopy-mobile/canopy-game
+data/pdf
